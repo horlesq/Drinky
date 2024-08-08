@@ -1,5 +1,5 @@
 # Drinky 
-Web application for marking drinking sessions on map
+Web application for marking drinking sessions on map <br>
 Application created using: HTML, CSS, Javascript, Geolocation API with Leaflet Library and localStorage API
 
 You can try the demo at: https://horlesq.github.io/Drinky/

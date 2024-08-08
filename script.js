@@ -247,7 +247,7 @@ class App {
       html += `
             <div class="session__details">
                 <span class="session__icon">💫</span>
-                <span class="session__value">${drinkingSession.vibe}</span>
+                <span class="session__value">${drinkingSession.vibe.toUpperCase()}</span>
                 <span class="session__unit">vibe</span>
             </div>
         </li>

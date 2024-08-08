@@ -43,7 +43,7 @@ a:visited {
 
 /* SIDEBAR */
 .sidebar {
-  flex-basis: 60rem;
+  flex-basis: 55rem;
   background-color: var(--color-dark--1);
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
@@ -172,9 +172,9 @@ a:visited {
   display: none;
 }
 
-.copyright {
+.footer {
   margin-top: auto;
-  font-size: 0.8rem;
+  font-size: 1.8rem;
   text-align: center;
   color: var(--color-light--1);
 }

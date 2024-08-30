@@ -4,6 +4,15 @@ A web application for tracking drinking sessions, whether at a pub or outdoors. 
 
 ![image](https://github.com/user-attachments/assets/6e7fdec8-d6d6-4a3c-8d7b-41df8dc48256)
 
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Contact](#contact)
+
 ## Features
 
 - **Track Drinking Sessions**: Add new drinking sessions with details like location (pub or outdoor), number of drinks, duration, and additional specifics like price or vibe.

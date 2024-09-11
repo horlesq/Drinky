@@ -11,6 +11,7 @@ A web application for tracking drinking sessions, whether at a pub or outdoors. 
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Installation](#installation)
+- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -60,6 +61,9 @@ git clone https://github.com/horlesq/drinky.git
 cd drinky
 ```
 3. **Open index.html in your web browser**: Simply open the index.html file in your preferred web browser to start using the app.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
